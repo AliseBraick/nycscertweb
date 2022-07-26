@@ -1,6 +1,6 @@
 # Hunter Computer Science Advanced Certification Portfolio_ Alise Braick
 
-below are sample projects for each if our summer course
+Below are sample projects for each of our summer courses
 
 ## Sample Projects
 
