@@ -11,8 +11,8 @@
 ## CSCI 70900 Programming in a High Level Language
 - [Conway's Game of Life](https://raw.githubusercontent.com/hunter-teacher-cert/cohort-3-summer-work-AliseBraick/master/programming/3/Cgol.java) 
 
-## Data Structures
-- [Recursive Binary Search Animated](https://github.com/hunter-teacher-cert/cohort-3-summer-work-awdriggs/tree/master/ds/Sorting/animated) - See how a recursive binary search steps through an array.
+## CSCI 70300 Data Structures in a High Level Language
+- [Sort Search Methods ](https://raw.githubusercontent.com/hunter-teacher-cert/cohort-3-summer-work-AliseBraick/master/ds/Sorting/SortSearch.java) 
 
-## Methods
-- [Toolbox](https://github.com/hunter-teacher-cert/cohort-3-summer-work-awdriggs/tree/master/methods/toolbox): a collection of useful resources.
+## SEC 70300 Methods for Teaching Computer Science
+- [Github Portfolio for 2022 Summer Cohort](https://github.com/hunter-teacher-cert/sedc71900-summer-2022/tree/main/resources/portfolio)
